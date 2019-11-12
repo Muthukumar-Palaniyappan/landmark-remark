@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkBackend", "LandmarkBackend\LandmarkBackend.csproj", "{E37EF81A-310C-47A7-9D27-99FF5F91D8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarkServices", "LandmarkServices\LandmarkServices.csproj", "{39E6EC0B-B7D5-454F-B38C-B7149BDA96ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandMarkDataContract", "LandMarkDataContract\LandMarkDataContract.csproj", "{0A06AB3F-5D6B-463F-8C7C-AD3645FF06D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandMarkRepository", "LandMarkRepository\LandMarkRepository.csproj", "{D73EA26C-5E92-497D-B8FB-5D103B1CE851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37EF81A-310C-47A7-9D27-99FF5F91D8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37EF81A-310C-47A7-9D27-99FF5F91D8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37EF81A-310C-47A7-9D27-99FF5F91D8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37EF81A-310C-47A7-9D27-99FF5F91D8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E6EC0B-B7D5-454F-B38C-B7149BDA96ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E6EC0B-B7D5-454F-B38C-B7149BDA96ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E6EC0B-B7D5-454F-B38C-B7149BDA96ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E6EC0B-B7D5-454F-B38C-B7149BDA96ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A06AB3F-5D6B-463F-8C7C-AD3645FF06D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A06AB3F-5D6B-463F-8C7C-AD3645FF06D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A06AB3F-5D6B-463F-8C7C-AD3645FF06D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A06AB3F-5D6B-463F-8C7C-AD3645FF06D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73EA26C-5E92-497D-B8FB-5D103B1CE851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73EA26C-5E92-497D-B8FB-5D103B1CE851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73EA26C-5E92-497D-B8FB-5D103B1CE851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73EA26C-5E92-497D-B8FB-5D103B1CE851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
